@@ -59,6 +59,8 @@ jumpspeed = jumpspeed_normal;
             <kind>1</kind>
             <string>jumpspeed = jumpspeed_normal;
 sprite_index = spr_player;
+
+instance_create(544,160,obj_powerup);
 </string>
           </argument>
         </arguments>
